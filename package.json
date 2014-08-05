@@ -1,0 +1,11 @@
+{
+	"author": "Matt Larsh",
+	"name": "censorify",
+	"version": "0.0.0",
+	"description": "censors words out",
+	"main": "censortext",
+	"dependencies": {},
+	"engines":{
+		"node": "*"
+	}
+}
